@@ -1,4 +1,4 @@
-package exercices;
+package exercices.bee1036;
 
 import java.util.Locale;
 import java.util.Scanner;
