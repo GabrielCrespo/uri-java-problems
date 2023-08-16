@@ -27,3 +27,7 @@ replay_pid*
 .vscode
 .idea
 uri-java-problems.iml
+
+### unsolved problems
+src/exercices/bee1045
+src/exercices/bee1047
