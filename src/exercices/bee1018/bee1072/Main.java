@@ -1,4 +1,4 @@
-package bee1072;
+package exercices.bee1018.bee1072;
 
 import java.util.Scanner;
 
