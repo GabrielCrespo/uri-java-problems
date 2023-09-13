@@ -1,4 +1,4 @@
-package bee1099;
+package exercices.bee1099;
 
 import java.io.IOException;
 import java.util.Scanner;
