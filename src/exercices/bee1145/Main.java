@@ -1,4 +1,4 @@
-package exercices.be1145;
+package exercices.bee1145;
 
 import java.io.IOException;
 import java.util.Scanner;
