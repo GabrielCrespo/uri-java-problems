@@ -1,4 +1,4 @@
-package bee1961;
+package exercices.bee1961;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package bee1959;
+package exercices.bee1959;
 
 import java.io.IOException;
 import java.util.Scanner;

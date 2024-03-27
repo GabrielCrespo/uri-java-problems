@@ -1,4 +1,4 @@
-package bee1963;
+package exercices.bee1963;
 
 import java.io.IOException;
 import java.util.Locale;
