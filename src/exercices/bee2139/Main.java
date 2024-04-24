@@ -1,4 +1,4 @@
-package bee2139;
+package exercices.bee2139;
 
 import java.io.IOException;
 import java.time.LocalDate;

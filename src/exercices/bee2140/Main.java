@@ -1,4 +1,4 @@
-package bee2140;
+package exercices.bee2140;
 
 import java.io.IOException;
 import java.util.List;
