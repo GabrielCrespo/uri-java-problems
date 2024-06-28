@@ -47,7 +47,6 @@ public class Main {
 
         int bankcoinsOf001 = (int) (monetaryValue * 100.0);
 
-
         System.out.println("NOTAS:");
         System.out.println(banknotesOf100 + " nota(s) de R$ 100.00");
         System.out.println(banknotesOf50 + " nota(s) de R$ 50.00");
@@ -63,6 +62,7 @@ public class Main {
         System.out.println(bankcoinsOf010 + " moeda(s) de R$ 0.10");
         System.out.println(bankcoinsOf005 + " moeda(s) de R$ 0.05");
         System.out.println(bankcoinsOf001 + " moeda(s) de R$ 0.01");
+
 
         sc.close();
 
